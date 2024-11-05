@@ -1,6 +1,6 @@
 # Pixieset Gallery Downloader
 
-This script allows you to download images from a Pixieset gallery, organizing them into folders by size and preserving original filenames.
+This script allows you to download images from a Pixieset gallery, organizing them into folders by size and preserving original filenames. It will NOT download the cover image. You need to download the cover image (filename will be xxxxxx-cover-large.JPG) manually through your browser via the Network tab.
 
 ## Prerequisites
 
